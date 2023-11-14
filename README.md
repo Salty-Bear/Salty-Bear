@@ -5,12 +5,21 @@
 <h3 align="center">A passionate software developer from India in</h3>
 
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **a Music app**
+ 
+ 🌱 I’m currently learning **NextJs, Stripe**
+
+ 💬 Ask me about **Angular, React, Firebase, Selenium... or anything**
+
+ 
+ </div>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salty-bear" alt="salty-bear" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://saltybearxd.co](https://saltybearxd.co)
 
-- 📫 How to reach me **contactme.aryaman@gmail.com**
 
   <div align="center"> 
   <a href="mailto:contactme.aryaman@gmail.com">
