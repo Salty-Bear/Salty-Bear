@@ -11,7 +11,6 @@
  
  🌱 I’m currently learning **NextJs, Stripe**
 
- 💬 Ask me about **Angular, React, Firebase, Selenium... or anything**
 
  
  </div>
