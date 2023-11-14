@@ -33,6 +33,14 @@
 
  <hr/>
 
+
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=Angular,Selenium,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,firestore,c,java,nextjs,mysql,flask" /><br>
+</div>
+
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salty-bear" alt="salty-bear" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
