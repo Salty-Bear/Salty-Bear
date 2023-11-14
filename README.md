@@ -1,9 +1,10 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salty-bear&label=Profile%20views&color=0e75b6&style=flat" alt="salty-bear" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aryaman+Raj!;" />
 </h1>
 <h3 align="center">A passionate software developer from India in</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salty-bear&label=Profile%20views&color=0e75b6&style=flat" alt="salty-bear" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salty-bear" alt="salty-bear" /></a> </p>
 
