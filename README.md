@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salty-bear&label=Profile%20views&color=0e75b6&style=flat" alt="salty-bear" /> <a href="https://www.buymeacoffee.com/aryamanxd"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="150" alt="aryamanxd" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salty-bear&label=Profile%20views&color=0e75b6&style=flat" alt="salty-bear" /> <a href="https://www.buymeacoffee.com/aryamanxd"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="aryamanxd" /></a> </p>
 
 
 
