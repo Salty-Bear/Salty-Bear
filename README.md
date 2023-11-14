@@ -16,9 +16,7 @@
  </div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salty-bear" alt="salty-bear" /></a> </p>
 
- <hr/>
 
 
   <div align="center"> 
@@ -32,6 +30,10 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
+ <hr/>
+
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salty-bear" alt="salty-bear" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
