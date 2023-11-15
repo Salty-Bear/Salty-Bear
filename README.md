@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Music app**
  
- 🌱 I’m currently learning **NextJs, Stripe**
+ 🌱 I’m currently learning **NodeJs,ExpressJs, Stripe**
 
 
  
