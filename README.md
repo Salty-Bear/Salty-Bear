@@ -41,7 +41,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,selenium,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,c,java,nodejs,mysql,flask" /><br>
 </div>
 <br/>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salty-bear" alt="salty-bear" /></a> </p>
