@@ -72,7 +72,7 @@
 <hr/>
 
 <h3 align="center">
-<iframe src="https://saltybear.live/" style="border:2px #ffffff solid;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="1500px" allowfullscreen></iframe>
+<img src="https://saltybear.live/" style="border:2px #ffffff solid;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="1500px" allowfullscreen></img>
     
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
