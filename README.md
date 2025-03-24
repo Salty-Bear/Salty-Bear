@@ -10,9 +10,8 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Music app**
+ 🔭 I’m currently working on **Virtual Sales Agent**
  
- 🌱 I’m currently learning **NodeJs,ExpressJs, Stripe**
 
 
  
