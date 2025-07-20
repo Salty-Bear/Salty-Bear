@@ -50,9 +50,9 @@
 
 <div align="center">
   <h2>📈 GitHub Contributions</h2>
-  ![snake gif](https://raw.githubusercontent.com/Salty-Bear/Salty-Bear/output/github-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/Salty-Bear/Salty-Bear/output/github-snake-dark.svg" alt="GitHub Snake animation" />
 </div>
+
 
 <hr/>
 
