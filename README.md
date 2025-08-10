@@ -22,7 +22,7 @@
 <div align="center">
   
 ### 🔥 **CURRENTLY WORKING AT:** `METADOME.AI` as SDE1 🚀
-### 💡 **BUILDING:** `Secure Auth Systems & Production Monitoring` ⚡
+### 💡 **BUILDING:** `AI AGENTS` ⚡
 
 </div>
 
