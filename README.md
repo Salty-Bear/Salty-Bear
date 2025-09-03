@@ -22,7 +22,7 @@
 <div align="center">
   
 ### 🔥 **CURRENTLY WORKING AT:** `METADOME.AI` as SDE1 🚀
-### 💡 **BUILDING:** `AI AGENTS` ⚡
+### 💡 **BUILDING:** `Conversational AI XD` ⚡
 
 </div>
 
