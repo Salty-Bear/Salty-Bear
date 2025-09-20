@@ -22,7 +22,7 @@
 <div align="center">
   
 ### 🔥 **CURRENTLY WORKING AT:** `METADOME.AI` as SDE1 🚀
-### 💡 **BUILDING:** `Conversational AI XD` ⚡
+### 💡 **BUILDING:** `Syntra - Intelligent API Testing` ⚡
 
 </div>
 
