@@ -21,7 +21,7 @@
 
 <div align="center">
   
-### 🔥 **CURRENTLY WORKING AT:** `METADOME.AI` as SDE1 🚀
+### 🔥 **CURRENTLY WORKING AT:** `Plivo` as SDE1 🚀
 ### 💡 **BUILDING:** `Syntra - Intelligent API Testing` ⚡
 
 </div>
