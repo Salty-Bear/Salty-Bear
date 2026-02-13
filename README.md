@@ -21,7 +21,7 @@
 
 <div align="center">
   
-### 🔥 **CURRENTLY WORKING AT:** `Plivo` as SDE1 🚀
+### 🔥 **CURRENTLY WORKING AT:** `Intuit` as Software Engineer 🚀
 ### 💡 **BUILDING:** `Syntra - Intelligent API Testing` ⚡
 
 </div>
