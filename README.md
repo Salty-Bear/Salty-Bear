@@ -110,7 +110,9 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salty-bear&theme=discord&no-frame=false&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Salty-Bear&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
