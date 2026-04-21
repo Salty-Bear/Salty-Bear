@@ -146,8 +146,8 @@
   
 ```ascii
 ╭─────────────────────────────────────────────────────────╮
-│  ⚡ "BUILDING SECURE SYSTEMS & SOLVING COMPLEX PROBLEMS"│  
-│        ~ Aryaman Raj • SDE1 @ METADOME.AI ~             │
+│  ⚡ "BUILDING SECURE SYSTEMS & SOLVING COMPLEX PROBLEMS" │  
+│        ~ Aryaman Raj • SDE1 @ INTUIT ~                  │
 ╰─────────────────────────────────────────────────────────╯
 ```
 
