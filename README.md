@@ -13,7 +13,7 @@
   
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║  🌟 SOFTWARE DEVELOPER | INDIA 🇮🇳 | INNOVATION ENTHUSIAST  ║
+║  🌟 SOFTWARE DEVELOPER  | INNOVATION ENTHUSIAST | CHILL GUY   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
