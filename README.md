@@ -38,7 +38,7 @@
   
 [![Gmail](https://img.shields.io/badge/Gmail-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:contactme.aryaman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://linkedin.com/in/aryamanrajxd/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=todoist&logoColor=white&labelColor=1e1b4b)](https://saltybear.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=todoist&logoColor=white&labelColor=1e1b4b)](https://saltybear.me/)
 [![Discord](https://img.shields.io/badge/Discord-8b5cf6?style=for-the-badge&logo=discord&logoColor=white&labelColor=1e1b4b)](https://discord.com/users/saltybearx)
 [![LeetCode](https://img.shields.io/badge/LeetCode-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b4b)](https://leetcode.com/meAryaman)
 [![CodeChef](https://img.shields.io/badge/CodeChef-f97316?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1e1b4b)](https://codechef.com/users/aryamanxd)
